@@ -1,0 +1,186 @@
+/* default css started */
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background: url(hero-bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 92vh;
+}
+
+/* default css started */
+
+/* main css started */
+main#main-form {
+  width: 83%;
+  height: 83vh;
+  background: rebeccapurple;
+  margin: auto;
+  margin-top: 43px;
+  border: 1px solid #547579;
+  box-shadow: 3px 0px 8px 1px #1d212d;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.first-block {
+  width: 50%;
+  height: 100%;
+  border-radius: 2px;
+  float: left;
+}
+.display {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(#4ccdea8a, #080808c4), url(blog-post.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 2px;
+}
+.second-block {
+  width: 50%;
+  height: 100%;
+  float: right;
+  background: #269ebd;
+  border-radius: 2px;
+}
+.login {
+  width: 100%;
+  height: 100%;
+  background: red;
+}
+.display-two {
+  width: 100%;
+  background: linear-gradient(#4ccdea8a, #080808c4), url(blog-post.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  margin-top: -515px;
+}
+.signup {
+  width: 100%;
+  height: 100%;
+  background: #c9d1d3;
+  display: flex;
+}
+.in-img {
+  width: 10px;
+  position: absolute;
+  left: 643px;
+  top: 81px;
+}
+form#sign-up-form {
+  width: 350px;
+  height: 419px;
+  background: red;
+  margin: auto;
+}
+form#sign-up-form {
+  width: 331px;
+  height: 411px;
+  background: #c9d1d3;
+  margin: auto;
+  box-shadow: inset 1px 1px 12px 1px white, inset 1px 1px 1px 1px black;
+  padding: 12px;
+}
+form#sign-up-form {
+  width: 331px;
+  height: 411px;
+  background: #c9d1d3;
+  margin: auto;
+  box-shadow: inset 1px 1px 12px 1px white, inset 1px 1px 1px 1px black;
+  padding: 12px;
+  position: relative;
+}
+
+input {
+  padding: 6px 106px 6px 5px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  box-shadow: inset 1px 1px 7px 1px white, inset 1px 1px 1px 1px black;
+  background: #ecf2f3;
+  position: relative;
+  margin-bottom: 26px;
+  border: 2px solid transparent;
+  margin-left: 22px;
+}
+
+input.inp2 {
+  position: absolute;
+  padding-right: 3px;
+  margin-left: 5px;
+  width: 150px;
+  margin-top: 14px;
+}
+input.inp1 {
+  padding-right: 3px;
+}
+input.inp1 {
+  width: 151px;
+  margin-left: 0px;
+  margin-top: 14px;
+}
+
+input.inp5 {
+  padding-right: 134px;
+}
+button {
+  padding: 5px 115px 5px 116px;
+  border: none;
+  outline: none;
+  box-shadow: 1px 3px 3px 1px #7f7d7d;
+  background: #00c4ff;
+  border-radius: 6px;
+  margin-left: 22px;
+}
+span {
+  position: absolute;
+  top: 41px;
+  left: 20px;
+  font-size: 12px;
+}
+
+span#text1 {
+  top: 60px;
+  left: 189px;
+}
+span#text2 {
+  top: 117px;
+  left: 31px;
+}
+span#text3 {
+  top: 61px;
+  left: 15px;
+}
+span#text4 {
+  top: 174px;
+  left: 29px;
+}
+span#text5 {
+  top: 235px;
+  left: 29px;
+}
+span#text6 {
+  top: 294px;
+  left: 29px;
+}
+span#text7 {
+  top: 348px;
+  left: 29px;
+}
+h2#sign-up {
+  position: absolute;
+  font-size: 16px;
+  top: 56px;
+  left: 699px;
+  font-family: -webkit-pictograph;
+  color: #1c4c5b;
+}
+button a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+/* main css ended  */
